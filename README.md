@@ -2,7 +2,9 @@
 
 ## 下载项目
 ```shell
-git clone git@github.com:youngyangyang04/element-ui.git
+
+git clone https://github.com/waterlily601/Vue3-UI-Component.git
+git clone git@github.com:waterlily601/Vue3-UI-Component.git
 ```
 
 ## 启动项目
