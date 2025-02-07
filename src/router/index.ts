@@ -32,11 +32,11 @@ const routes: Array<RouteRecordRaw> = [
         name: 'ElMessage',
         component: () => import('../views/message/message.vue')
       },
-      {
-        path: '/input',
-        name: 'ElInput',
-        component: () => import('../views/input/input.vue')
-      },
+      // {
+      //   path: '/input',
+      //   name: 'ElInput',
+      //   component: () => import('../views/input/input.vue')
+      // },
       // {
       //   path: '/datepicker',
       //   name: 'ElDatePicker',
@@ -57,16 +57,16 @@ const routes: Array<RouteRecordRaw> = [
         name: 'ElSwitch',
         component: () => import ('../views/switch/switch.vue')
       },
-      {
-        path: '/dialog',
-        name: 'ElDialog',
-        component: () => import ('../views/dialog/dialog.vue')
-      },
-      {
-        path: '/select',
-        name: 'ElSelect',
-        component: () => import('../views/select/select.vue')
-      },
+      // {
+      //   path: '/dialog',
+      //   name: 'ElDialog',
+      //   component: () => import ('../views/dialog/dialog.vue')
+      // },
+      // {
+      //   path: '/select',
+      //   name: 'ElSelect',
+      //   component: () => import('../views/select/select.vue')
+      // },
       {
         path: '/form',
         name: 'ElForm',
